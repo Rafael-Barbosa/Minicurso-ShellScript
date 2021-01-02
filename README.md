@@ -1,2 +1,4 @@
 # ShellScript
-Alguns ShellScript para estudo...
+Alguns ShellScript para prática
+
+O Roteiro se encontra em Roteiro.pdf
